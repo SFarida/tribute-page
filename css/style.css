@@ -4,6 +4,7 @@
 #img-div {
     width: 100%;
     position: relative;
+    /* Center image*/
     display: flex;
     justify-content: center;
 }
