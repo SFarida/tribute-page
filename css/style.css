@@ -1,0 +1,9 @@
+#img-div{
+    width: 100%;
+    position: relative;
+}
+#image{
+    max-width: 30%;
+    height: auto;
+    position: absolute;
+}
