@@ -1,9 +1,23 @@
-#img-div{
+#main{
+    margin: 4%;
+}
+#img-div {
     width: 100%;
     position: relative;
+    display: flex;
+    justify-content: center;
 }
-#image{
+
+#image {
+    display: block;
     max-width: 30%;
     height: auto;
     position: absolute;
+    /* top: 1000%;
+    left: 50%; */
+    /* transform: translate(-50%, -50%); */
+}
+
+#img-caption {
+  position: absolute;
 }
